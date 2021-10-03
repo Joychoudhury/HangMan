@@ -16,3 +16,6 @@ Technical:
 -   Show popup on win or lose
 -   Play Again button 
 
+## Working Images
+
+<img src = "Working-image/1.png"/>
